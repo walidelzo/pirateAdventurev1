@@ -25,5 +25,24 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)actionButtonpressd:(UIButton*)sender{
+    
+}
+-(void)northButtonPressed:(UIButton*)sender{
+    
+}
+-(void)southButtonPressed:(UIButton*)sender{
+    
+}
+
+-(void)eastButtonPressed:(UIButton*)sender{
+    
+}
+-(void)westButtonPressed:(UIButton*)sender{
+    
+}
+-(void)resetGamepressed:(UIButton*)sender{
+    
+}
 
 @end

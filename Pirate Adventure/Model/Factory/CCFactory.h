@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  CCFactory.h
 //  Pirate Adventure
 //
 //  Created by walidelzo on 6/20/18.
 //  Copyright © 2018 walidelzo. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface ViewController : UIViewController
-
+@interface CCFactory : NSObject
 
 @end
-
