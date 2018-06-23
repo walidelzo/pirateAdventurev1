@@ -6,7 +6,7 @@
 //  Copyright © 2018 walidelzo. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "CCAppDelegate.h"
 
 @interface AppDelegate ()
 
